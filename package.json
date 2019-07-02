@@ -3,8 +3,8 @@
   "version": "0.2.2",
   "private": false,
   "dependencies": {
-    "spi": "*",
-    "color": "*"
+    "color": "*",
+    "spi-device": "^2.0.8"
   },
   "description": "Non-blocking LPD8806 NodeJS general library",
   "main": "./lib/LPD8806",
